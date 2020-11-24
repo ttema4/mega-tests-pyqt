@@ -2,7 +2,7 @@ from PyQt5.QtWidgets import QWidget
 from PyQt5 import uic
 
 
-class ConsoleScreen(QWidget):  # Печать нынешний быз данных
+class ConsoleScreen(QWidget):  # Печать нынешний баз данных
     def __init__(self, parent=None):
         self.parent = parent
         self.cur = self.parent.cur
@@ -14,7 +14,7 @@ class ConsoleScreen(QWidget):  # Печать нынешний быз данны
         uic.loadUi('console.ui', self)
         self.pushButton.clicked.connect(self.create_dock)
 
-    def add_text(self, st%Получение):
+    def add_text(self, st):
         self.textEdit.setText(self.textEdit.toPlainText() + '\n' + st)
 
     def create_dock(self):
