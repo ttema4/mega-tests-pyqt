@@ -15,5 +15,5 @@
 В системе уже создан тест номер 1, его можно пройти или отредактировать.
 
 # Фото:
-![first photo](https://raw.githubusercontent.com/ttema4/mega-tests-pyqt/205b0c17406b8f3f3b5971906abc8e3a84671337/IMG_1.phg)
+![first photo](https://raw.githubusercontent.com/ttema4/mega-tests-pyqt/205b0c17406b8f3f3b5971906abc8e3a84671337/IMG_1.png)
 ![second photo](https://raw.githubusercontent.com/ttema4/mega-tests-pyqt/205b0c17406b8f3f3b5971906abc8e3a84671337/IMG_2.png)
