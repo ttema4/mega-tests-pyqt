@@ -11,8 +11,9 @@
 * Создание, прохождение и просмотр результатов.
 * В БД 2 таблицы: вопросы и результаты.
 
+# Тестирование:
+В системе уже создан тест номер 1, его можно пройти или отредактировать.
+
 # Фото:
-![first photo](https://raw.githubusercontent.com/ttema4/mega-tests-flask/966b463353ed8ec4a04ad303665180eaedbc5055/IMG_1.jpeg)
-![second photo](https://raw.githubusercontent.com/ttema4/mega-tests-flask/966b463353ed8ec4a04ad303665180eaedbc5055/IMG_2.jpeg)
-![third photo](https://raw.githubusercontent.com/ttema4/mega-tests-flask/966b463353ed8ec4a04ad303665180eaedbc5055/IMG_3.jpeg)
-![fourth photo](https://raw.githubusercontent.com/ttema4/mega-tests-flask/966b463353ed8ec4a04ad303665180eaedbc5055/IMG_4.jpeg)
+![first photo](https://raw.githubusercontent.com/ttema4/mega-tests-pyqt/205b0c17406b8f3f3b5971906abc8e3a84671337/IMG_1.phg)
+![second photo](https://raw.githubusercontent.com/ttema4/mega-tests-pyqt/205b0c17406b8f3f3b5971906abc8e3a84671337/IMG_2.png)
